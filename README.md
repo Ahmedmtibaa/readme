@@ -34,6 +34,10 @@ Customer :
 •Login block authentication (transfer)     
 •It uses RSA technology to encrypt/decrypt all messages sent between client       
 •Disconnect 
+
+![Screenshot 2022-12-21 012906](https://user-images.githubusercontent.com/121107500/208949531-ed9b359c-baf8-43e9-bdb8-eb535358ba34.png)
+
+
 ## Reliance
 
 •RabbitMQ: Messaging Broker based on AMQP protocol.       
