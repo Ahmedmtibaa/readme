@@ -59,6 +59,9 @@ configure LDAP
 
 ![Screenshot 2022-12-21 171049](https://user-images.githubusercontent.com/121107500/208950850-0966e7e2-af6f-4f0b-96ed-205e00465ff8.png)
 
+![Screenshot 2022-12-21 171422](https://user-images.githubusercontent.com/121107500/208951504-1c8f0985-6d95-4357-aade-c7fdbe5a5746.png)
+
+
 
 
 Run RabbitMQ  
