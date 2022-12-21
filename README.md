@@ -58,7 +58,8 @@ configure LDAP
 
 
 
-
-
 Run RabbitMQ  
 $ systemctl start rabbitmq-server
+
+![Screenshot 2022-12-21 170312](https://user-images.githubusercontent.com/121107500/208950223-118fb5cd-c8cd-4fd6-8117-f83a2179dc9e.png)
+
