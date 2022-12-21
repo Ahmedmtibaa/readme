@@ -24,7 +24,7 @@ User registration:
 Login User:  
 
 •Check Active Directory users via LDAP  
-•Validate signature via authority server
+•Validate signature via authority server           
 •chat Encryption/decryption of messages exchanged between clients
 
 Customer :
