@@ -57,6 +57,7 @@ $systemctl start ladp.service
 configure LDAP 
 
 
+![Screenshot 2022-12-21 171049](https://user-images.githubusercontent.com/121107500/208950850-0966e7e2-af6f-4f0b-96ed-205e00465ff8.png)
 
 
 
