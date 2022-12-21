@@ -55,6 +55,7 @@ $sudo apt -y install slapd ldap-utils
 $systemctl start ladp.service 
 
 configure LDAP 
+![5](https://user-images.githubusercontent.com/121107500/208950475-c8304017-939d-4546-8aa1-906325abdf95.PNG)
 
 
 
