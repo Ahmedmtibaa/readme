@@ -43,7 +43,7 @@ Customer :
 
 •RabbitMQ: Messaging Broker based on AMQP protocol.       
 •OpenLDAP: is an implementation under ubuntu for LDAP protocol.  
-•Pika: Rabbitmq python client.
+•Pika: Rabbitmq python client.     
 •Tkinter: Standard Python interface to the Tk GUI toolkit.
 
 ![Screenshot 2022-12-21 131943](https://user-images.githubusercontent.com/121107500/208905015-a75a95b2-5828-4ae2-9bb7-2f7c54452c86.png)
