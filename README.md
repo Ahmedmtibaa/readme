@@ -8,7 +8,7 @@ Python-chatroom is our first project at tek-up this application built using Pyth
 
 ## Learning Goals 
 •LDAP server:Manage user authentication.   
-•Learning the fundamentals of encrypted message:creates certificattion, then signs them in order to verify their state and use authority server that accepts certification requests    
+•Learning the fundamentals of encrypted message:creates certificattion, then signs them in order to verify their state and use authority server that accepts  certification requests    
 •Understanding RabbitMQ the exchange server and the  message-queueing
 ## Work plan
 The creation of the application was divided in tow side.
