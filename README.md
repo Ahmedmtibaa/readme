@@ -15,7 +15,7 @@ The creation of the application was divided in tow side.
 
 Server :   
 
-user registration:    
+User registration:    
 
 •Add a new user to Active Directory via LDAP  
 •Get certificate through authority server  
@@ -34,9 +34,7 @@ Customer :
 •It uses RSA technology to encrypt/decrypt all messages sent between client       
 •Disconnect 
 
-
-
-
+![Screenshot 2022-12-21 012906](https://user-images.githubusercontent.com/121107500/208904805-4cc3ece1-1757-4a68-a5ac-c77d07bdceba.png)
 
 
 
