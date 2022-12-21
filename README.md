@@ -37,12 +37,13 @@ Customer :
 
 ![Screenshot 2022-12-21 012906](https://user-images.githubusercontent.com/121107500/208949531-ed9b359c-baf8-43e9-bdb8-eb535358ba34.png)
 
+![Screenshot 2022-12-21 131943](https://user-images.githubusercontent.com/121107500/208949893-1aff5111-496d-4565-a9fe-143e3c8c2058.png)
 
 ## Reliance
 
 •RabbitMQ: Messaging Broker based on AMQP protocol.       
 •OpenLDAP: is an implementation under ubuntu for LDAP protocol.  
-•Pika: Rabbitmq python client.
+•Pika: Rabbitmq python client.              
 •Tkinter: Standard Python interface to the Tk GUI toolkit.
 
 
